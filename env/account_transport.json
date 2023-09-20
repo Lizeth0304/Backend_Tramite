@@ -1,0 +1,10 @@
+{
+    "service": "gmail",
+    "auth": {
+      "type": "OAuth2",
+      "user": "estebanjdesaweb@gmail.com",
+      "clientId": "474554196808-gg5053tjuodpdc72358458ujrf8641p1.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04ciHAcwjO3XHCgYIARAAGAQSNwF-L9Ir-zUi-oSo7QA372leR9JirjosIwiEoijMhJ2m6tASAsoZ9rrPBq_P1kvibdLoIq20wh0"
+    }
+  }
